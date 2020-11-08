@@ -1,4 +1,3 @@
-
 # 0xT7 [译] Google 官方正解是否应该学习 Kotlin
 
 ![](http://img.hi-dhl.com/kotlin-vs-java.030.png)
@@ -149,7 +148,7 @@ Anko 是非常成功的项目，它的出现让 Kotlin 在 Android 上的体验�
 
 * LeetCode / 剑指 offer / 国内外大厂面试题 / 多线程 题解，语言 Java 和 kotlin，包含多种解法、解题思路、时间复杂度、空间复杂度分析<br/>
 
-    <image src="http://img.hi-dhl.com/16021352496698.jpg" width = "500px"/>
+    <image src="http://cdn.51git.cn/2020-10-04-16017884626310.jpg" width = "500px"/>
   
     * 剑指 offer 、多线程、国内外大厂面试题：[在线阅读](https://offer.hi-dhl.com)
     * LeetCode 系列题解：[在线阅读](https://leetcode.hi-dhl.com)
