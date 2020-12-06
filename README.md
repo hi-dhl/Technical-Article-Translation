@@ -22,6 +22,7 @@
 * [[译][1.4K+ Star] Kotlin 新秀 Coil VS Glide and Picasso](https://juejin.im/post/5edd1f5ae51d45789e0d9a22)
 * [[译]你中招了吗？ Kotlin 一个隐藏的问题](https://juejin.im/post/6856954554718617614)
 * [[译] Google 官方正解是否应该学习 Kotlin](https://juejin.im/post/6892313806379155464)
+* [官宣 有趣的 Android Studio 版本新方案](https://juejin.cn/post/6902296472692686861)
 * 更新中......
 
 ### 联系我
