@@ -2,8 +2,6 @@
 
 ![](http://img.hi-dhl.com/kotlin_extend_fun_1.png)
 
-![](http://img.hi-dhl.com/kotlin_extend_fun_2.png)
-
 
 > hi 大家好，我是 DHL。公众号：ByteCode ，专注分享最新技术原创文章，涉及 Kotlin、Jetpack、算法动画、数据结构 、系统源码、 LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等。
 > 
