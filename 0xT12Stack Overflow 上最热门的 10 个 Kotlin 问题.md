@@ -1,4 +1,4 @@
-# Stack Overflow 上最热门的 10 个 Kotlin 问题？
+# Stack Overflow 上最热门的 10 个 Kotlin 问题
 
 ![](https://img.hi-dhl.com/164907002588321.jpg)
 
