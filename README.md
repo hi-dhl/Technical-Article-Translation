@@ -14,6 +14,8 @@
 
 ### 文章列表
 
+* [国外大厂面试题， 7 个 Android Lifecycle 重要的知识点](https://mp.weixin.qq.com/s/oN4CTWCnEWSc2yf2BG6dew)
+* [Android 13这些权限废弃，你的应用受影响了吗？](https://mp.weixin.qq.com/s/t_E6kOU2jTJ82pcJ7ZkdMA)
 * [Android 11 提高 App 冷启动速度 5% 以上](https://mp.weixin.qq.com/s/rRa-EBAgFENurfVfYCrUbA)
 * [Stack Overflow 上最热门的 10 个 Kotlin 问题](https://mp.weixin.qq.com/s/rRa-EBAgFENurfVfYCrUbA)
 * [避免滥用 Kotlin 扩展函数](https://mp.weixin.qq.com/s/M-aGnXbldIKJX78SdqAHCQ)
